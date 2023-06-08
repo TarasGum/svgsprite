@@ -1,0 +1,14 @@
+.icon {
+  fill: red;
+}
+
+.icon:hover {
+  fill: green;
+}
+
+.au {
+  fill: aqua;
+}
+:hover {
+  fill: green;
+}
